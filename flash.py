@@ -6,7 +6,9 @@ from random import randint
 root = Tk()
 root.title("Flashcard App")
 root.geometry("500x500")
-root.iconbitmap("c:/guis/logo.ico")
+
+# row 10 disable by adding  # because the logo is on my local machin. 
+# root.iconbitmap("c:/guis/logo.ico")
 
 # Create function to determine add answer correct?
 
