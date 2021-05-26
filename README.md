@@ -1,2 +1,2 @@
 # Tkinter
-Code for Tkinter GUIs
+Codes for Tkinter GUIs
